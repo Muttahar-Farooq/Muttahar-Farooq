@@ -1,4 +1,4 @@
-### Hi there, I am [Muttahar Farooq][https://www.muttaharfarooq.com/] 👋
+### Hi there, I am [Muttahar Farooq][website] 👋
 
 ## Computer Scientist & developer based out of Hungary
 
@@ -15,6 +15,8 @@ coding and solving complex algorithms. My main expertise is in C++ and Java, I a
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/muttahar.farooq/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/muttahar.farooq/#gh-dark-mode-only)
+
+[website]: https://www.muttaharfarooq.com/
 
 <!--
 **Muttahar-Farooq/Muttahar-Farooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
