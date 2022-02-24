@@ -7,14 +7,14 @@ coding and solving complex algorithms. My main expertise is in C++ and Java, I a
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.muttaharfarooq.com/)
-[![website](./img/globe-dark.svg)](https://www.muttaharfarooq.com/)
+[![website](./img/globe-light.svg)](https://www.muttaharfarooq.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.muttaharfarooq.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muttahar-farooq-5816b31aa/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muttahar-farooq-5816b31aa/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muttahar-farooq-5816b31aa/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muttahar-farooq-5816b31aa/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/muttahar.farooq/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/muttahar.farooq/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/muttahar.farooq/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/muttahar.farooq/#gh-dark-mode-only)
 
 <!--
 **Muttahar-Farooq/Muttahar-Farooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
