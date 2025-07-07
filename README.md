@@ -24,7 +24,7 @@ We help businesses cut manual work, improve data accuracy, and launch new produc
 - 2 + years on the platform, 50 + completed automation & analytics projects  
 - Clients range from fintech lenders to SaaS start-ups and online retailers  
 
-> _“Muttahar’s team saved us dozens of hours per week by automating our lead-gen workflow — brilliant!”_ — ★★★★★ Upwork client
+> _“Muttahar’s team saved us dozens of hours per week by automating our lead-gen workflow — brilliant!”_ — ★★★★★ Mike Oh | Secure Asset Recovery
 
 ---
 
