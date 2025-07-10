@@ -34,8 +34,6 @@ We help businesses cut manual work, improve data accuracy, and launch new produc
 | **Personal Upwork** | [https://www.upwork.com/freelancers/muttaharf](https://www.upwork.com/freelancers/muttaharf) |
 | **Agency Upwork (Autobotic Services)** | [https://www.upwork.com/agencies/autoboticservices/](https://www.upwork.com/agencies/autoboticservices/) |
 
-_Replace the placeholders above with your live URLs._
-
 ---
 
 ### Tech Stack & Tools
